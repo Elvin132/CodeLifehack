@@ -66,3 +66,59 @@ nav {
 }
 
 
+
+/* Step bikin logo uniqlo pojok kiri dan navbar bagian pojok kanan 
+
+#navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: white;
+  padding: 10px 40px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    flex: 1;
+    gap: 20px;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.navbar a:hover {
+  color: #fff;
+  background-color: #a50000;
+  padding: 15px;
+  border-radius: 16px;
+  transition: all .3s ease-in-out;
+}
+
+.logo > img {
+    height: 60px; /*Atur ukuran sesuai kebutuhan/
+    display: block;
+}
+
+.logo {
+    display: flex; 
+    align-items: center; /*biar logonya tengah*/
+    /*text-decoration: none; /*biar ga ad garis bawah/
+}
+
+.logo:hover {
+    color: #a50000;
+}*/
